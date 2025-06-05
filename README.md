@@ -54,3 +54,42 @@ This repository houses the hex-codes of the colours used within past application
     --less-light-grey: #cecece;
     --light-grey: #f0f0f0;
     --white: #fdfdfd;
+
+## amalgamated list with no duplicate hex-codes
+
+    --transparent: #00000000;
+
+    --dark-grey: #333;
+    --grey: #a0a0a0;
+    --light-grey: #f0f0f0;
+    --less-light-grey: #cecece;
+
+    --white: #fdfdfd;
+    --white: #f8f8f2;
+
+    --light-yellow: #f5e497;
+    --dark-yellow: #928135;
+
+    --light-pink: #eccae4;
+    --dark-pink: #7e2567;
+
+    --light-orange: #ebc597;
+    --dark-orange: #855821;
+    --orange: #f2843e;
+
+    --light-blue: #c7dcf0;
+    --light-blue: #6272a4;
+    --dark-blue: #31597e;
+    --dark-blue: #191a21;
+    --medium-blue: #4b5575;
+    --dark-medium-blue: #343746;
+
+    --light-purple: #e0d2ec;
+    --dark-purple: #340a57;
+    --purple: #bd76ad;
+
+    --light-green: #d1ecba;
+    --dark-green: #214107;
+
+    --light-red: #dd0534;
+    --dark-red: #9b1818;
