@@ -31,3 +31,13 @@ This repository houses the hex-codes of the colours used within past application
 
     --light-red: #dd0534;
     --dark-red: #9b1818;
+
+## twenty-one
+
+    --white: #f8f8f2;
+    --orange: #f2843e;
+    --purple: #bd76ad;
+    --dark-blue: #191a21;
+    --light-blue: #6272a4;
+    --medium-blue: #4b5575;
+    --dark-medium-blue: #343746;
