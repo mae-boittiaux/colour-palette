@@ -41,3 +41,8 @@ This repository houses the hex-codes of the colours used within past application
     --light-blue: #6272a4;
     --medium-blue: #4b5575;
     --dark-medium-blue: #343746;
+
+## mae-boittiaux.github.io
+
+    --white: #fdfdfd;
+    --dark-grey: #333;
