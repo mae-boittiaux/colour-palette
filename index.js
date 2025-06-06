@@ -12,4 +12,8 @@ for (let i = 0; i < hexCodes.length; i++) {
     addCSS(`#${colour.id}{ background-color: #${hexCodes[i]}; }`);
 
     palette.appendChild(colour);
+
+    colour.addEventListener('click', () => {
+        navigator.clipboard.writeText(colour.textContent);
+    });
 }
