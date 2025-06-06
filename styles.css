@@ -6,10 +6,7 @@ li {
     margin: 4px;
     width: 60px;
     height: 60px;
-    color: #333;
-    font-size: 12px;
     list-style: none;
-    text-align: center;
     border-radius: 16px;
     border: 1px solid #333;
 }
@@ -19,4 +16,12 @@ li {
     padding: 0;
     display: flex;
     flex-direction: row;
+}
+
+.colour-code {
+    color: #333;
+    font-size: 12px;
+    margin-top: 66px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
