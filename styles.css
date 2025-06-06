@@ -1,7 +1,17 @@
 body {
     margin: 0;
+    color: #333;
     padding: 85px;
     background-color: #fdfdfd;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+p {
+    margin-bottom: 26px;
 }
 
 li {
@@ -23,9 +33,7 @@ li {
 }
 
 .colour-code {
-    color: #333;
     font-size: 12px;
     margin-top: 66px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 }
