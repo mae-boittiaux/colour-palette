@@ -93,3 +93,19 @@ This repository houses the hex-codes of the colours used within past application
 
     --light-red: #dd0534;
     --dark-red: #9b1818;
+
+## pastel-highlighters
+
+    --cloudy-blue: #b1dff6;
+    --breezy-blue: #a0d2e9;
+    --pastel-mint: #a8d4b4;
+    --bright-lime: #cbfe98;
+    --muted turquoise: #81cac6;
+    --pale-orange: #f0bb82;
+    --creamy-peach: #f49e84;
+    --pink-blush: #f5aebb;
+    --cherry-blossom: #ff9999;
+    --coral-red: #ff9999;
+    --milky-yellow: #f5efa1;
+    --lilac-haze: #c7a1cb;
+    --frozen-fuschia: #e5a0dc;
