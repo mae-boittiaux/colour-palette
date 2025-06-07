@@ -7,10 +7,12 @@ body {
 }
 
 h1 {
+    cursor: default;
     margin-bottom: 0;
 }
 
 p {
+    cursor: default;
     margin-bottom: 26px;
 }
 
@@ -18,6 +20,7 @@ li {
     margin: 4px;
     width: 60px;
     height: 60px;
+    cursor: pointer;
     list-style: none;
     margin-bottom: 24px;
     border-radius: 16px;
