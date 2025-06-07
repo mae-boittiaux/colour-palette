@@ -104,7 +104,6 @@ This repository houses the hex-codes of the colours used within past application
     --pale-orange: #f0bb82;
     --creamy-peach: #f49e84;
     --pink-blush: #f5aebb;
-    --cherry-blossom: #ff9999;
     --coral-red: #ff9999;
     --milky-yellow: #f5efa1;
     --lilac-haze: #c7a1cb;

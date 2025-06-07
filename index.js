@@ -35,7 +35,6 @@ const hexCodes = [
     'f49e84',
     'f5aebb',
     'ff9999',
-    'ff9999',
     'f5efa1',
     'c7a1cb',
     'e5a0dc'
