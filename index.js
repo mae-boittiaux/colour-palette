@@ -26,6 +26,19 @@ const hexCodes = [
     '214107',
     'dd0534',
     '9b1818',
+    'b1dff6',
+    'a0d2e9',
+    'a8d4b4',
+    'cbfe98',
+    '81cac6',
+    'f0bb82',
+    'f49e84',
+    'f5aebb',
+    'ff9999',
+    'ff9999',
+    'f5efa1',
+    'c7a1cb',
+    'e5a0dc'
 ];
 
 const palette = document.getElementById('colour-palette');
