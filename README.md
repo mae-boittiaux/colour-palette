@@ -108,3 +108,18 @@ This repository houses the hex-codes of the colours used within past application
     --milky-yellow: #f5efa1;
     --lilac-haze: #c7a1cb;
     --frozen-fuschia: #e5a0dc;
+
+## abstract-fishies
+
+    --light-fuchsia: #f85d80;
+    --medium-plum: #663659;
+    --light-salmon: #fbaa84;
+    --medium-orange: #f99b4e;
+    --faint-yellow: #f7f4bf;
+    --muted-lime: #d0cc32;
+    --pastel-lilac: #8690b2;
+    --bright-turquoise: #00deda;
+    --warm-navy: #004051;
+    --dark-plum: #2e1026;
+    --warm-brown: #9a624c;
+    
