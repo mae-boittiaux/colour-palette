@@ -20,5 +20,23 @@ for (let i = 0; i < hexCodes.length; i++) {
 
     colour.addEventListener('click', () => {
         navigator.clipboard.writeText(colour.textContent);
+        displayNotification(hexCodes[i]);
     });
+}
+
+function displayNotification(hexCode) {
+    const notification = document.createElement('div');
+
+    notification.className = "notification";
+    notification.id = 'notification-' + hexCode;
+    notification.textContent = "#" + hexCode + " copied to clipboard";
+
+    const notificationsElement = document.getElementById('notification-list');
+    notificationsElement.appendChild(notification);
+
+    sleep(3000).then(() => { notification.remove(); });
+}
+
+function sleep(milliseconds) {
+    return new Promise(resolve => setTimeout(resolve, milliseconds));
 }
