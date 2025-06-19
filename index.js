@@ -37,7 +37,18 @@ const hexCodes = [
     'ff9999',
     'f5efa1',
     'c7a1cb',
-    'e5a0dc'
+    'e5a0dc',
+    'f85d80',
+    '663659',
+    'fbaa84',
+    'f99b4e',
+    'f7f4bf',
+    'd0cc32',
+    '8690b2',
+    '00deda',
+    '004051',
+    '2e1026',
+    '9a624c'
 ];
 
 const palette = document.getElementById('colour-palette');
