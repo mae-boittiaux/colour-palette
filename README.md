@@ -132,4 +132,14 @@ This repository houses the hex-codes of the colours used within past application
     --dusky-green: #7b8d8e;
     --charcoal-grey: #5c5f66;
     --pale-grey: #d9d9d9;
+
+## dusty-rosewood
+
+    --pastel-pink: #fadadd;
+    --pale-coral: #fbc4ab;
+    --medium-rose: #f8c8dc;
+    --dusty-rose: #d8a7b1;
+    --deep-rose: #bc8f8f;
+    --bright-cream: #fff1e6;
+    --warm-brown: #a67c74;
     
