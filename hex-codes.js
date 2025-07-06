@@ -55,5 +55,12 @@ export const hexCodes = [
     '788aa3',
     '7b8d8e',
     '5c5f66',
-    'd9d9d9'
+    'd9d9d9',
+    'fadadd',
+    'fbc4ab',
+    'f8c8dc',
+    'd8a7b1',
+    'bc8f8f',
+    'fff1e6',
+    'a67c74'
 ];
