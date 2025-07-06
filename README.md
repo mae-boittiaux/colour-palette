@@ -122,4 +122,14 @@ This repository houses the hex-codes of the colours used within past application
     --warm-navy: #004051;
     --dark-plum: #2e1026;
     --warm-brown: #9a624c;
+
+## muted-moss 
+
+    --light-brown: #c49a88;
+    --dusky-beige: #e2d4c5;
+    --forest-green: #6c9a8b;
+    --dusky-blue: #788aa3;
+    --dusky-green: #7b8d8e;
+    --charcoal-grey: #5c5f66;
+    --pale-grey: #d9d9d9;
     
