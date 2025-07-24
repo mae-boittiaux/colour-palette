@@ -6,17 +6,20 @@ const addCSS = css => document.head.appendChild(document.createElement("style"))
 
 for (let i = 0; i < hexCodes.length; i++) {
     const colour = document.createElement('li');
+    colour.id = 'colour-' + hexCodes[i];
 
     const colourText = document.createElement('div');
     colourText.className = "colour-code";
     colourText.textContent = '#' + hexCodes[i];
 
-    colour.id = 'colour-' + hexCodes[i];
-
     addCSS(`#${colour.id}{ background-color: #${hexCodes[i]}; }`);
-
     colour.appendChild(colourText);
-    palette.appendChild(colour);
+
+    const container = document.createElement('div');
+    container.className = "container";
+    container.appendChild(colour);
+
+    palette.appendChild(container);
 
     colour.addEventListener('click', () => {
         navigator.clipboard.writeText(colour.textContent);
