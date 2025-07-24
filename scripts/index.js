@@ -1,4 +1,4 @@
-import { hexCodes } from "./hex-codes.js";
+import { hexCodes } from "./hex-codes";
 
 const palette = document.getElementById('colour-palette');
 
