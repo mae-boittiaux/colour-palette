@@ -1,5 +1,4 @@
 export const hexCodes = [
-    '00000000',
     '191a21',
     '333333',
     'a0a0a0',
