@@ -64,3 +64,32 @@ li {
     background-color: #fdfdfd;
     box-shadow: 8px 8px #0000001a;
 }
+
+#github-url {
+    top: 2px;
+    right: 2px;
+    color: #cecece;
+    padding-right: 0;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    bottom: 0;
+    width: 95%;
+    height: 22px;
+    position: absolute;
+}
+
+.no-drag {
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+}
