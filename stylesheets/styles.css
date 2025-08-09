@@ -1,7 +1,7 @@
 body {
     margin: 0;
     color: #333;
-    padding: 85px;
+    padding: 44px;
     background-color: #fdfdfd;
     font-family: "Courier Prime", monospace;
 }
@@ -31,6 +31,7 @@ li {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
+    margin-left: -10px;
     flex-direction: row;
 }
 
