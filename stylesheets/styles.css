@@ -17,14 +17,13 @@ p {
 }
 
 li {
-    margin: 4px;
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     cursor: pointer;
     list-style: none;
-    border-radius: 2px;
-    margin-bottom: 24px;
-    border: 1px solid #333;
+    margin-bottom: 22px;
+    border: 1px solid #00000000;
+    border-bottom: 1px solid #333;
 }
 
 #colour-palette {
@@ -37,7 +36,8 @@ li {
 
 .colour-code {
     font-size: 12px;
-    margin-top: 66px;
+    margin-top: 86px;
+    margin-left: 4px;
     text-align: left;
 }
 
@@ -62,7 +62,7 @@ li {
     border-radius: 2px;
     border: 1px solid #333;
     background-color: #fdfdfd;
-    box-shadow: 8px 8px #0000001a;
+    box-shadow: 6px 6px #0000001a;
 }
 
 #github-url {
