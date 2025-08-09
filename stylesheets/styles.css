@@ -66,11 +66,7 @@ li {
 }
 
 #github-url {
-    top: 2px;
-    right: 2px;
     color: #cecece;
-    padding-right: 0;
-    position: absolute;
 }
 
 a {
@@ -82,10 +78,10 @@ a:hover {
 }
 
 footer {
+    right: 0;
     bottom: 0;
-    width: 95%;
-    height: 22px;
-    position: absolute;
+    padding: 8px;
+    position: fixed;
 }
 
 .no-drag {
